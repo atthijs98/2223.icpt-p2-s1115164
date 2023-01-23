@@ -1,0 +1,3 @@
+C:/Users/atthi/Documents/repos/C-opdracht/cmake-build-debug/CMakeFiles/C_opdracht.dir
+C:/Users/atthi/Documents/repos/C-opdracht/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/atthi/Documents/repos/C-opdracht/cmake-build-debug/CMakeFiles/rebuild_cache.dir
